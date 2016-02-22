@@ -1,0 +1,131 @@
+h1 {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 50px;
+  color: #f08080;
+  text-align: center;
+}
+
+.newGame{
+	background-color:#ffb5c5;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #f08080;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:'Quattrocento Sans', sans-serif;
+	font-size:20px;
+	padding:16px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.newGame:hover {
+	background-color:#ff6a6a;
+}
+
+.newGame:active {
+	position:relative;
+	top:1px;
+}
+
+
+.box
+{
+  font-size: 100px;
+  text-align: center;
+}
+
+#a {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+#a:hover {
+	background-color:#f9cece
+}
+
+#b {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+#b:hover {
+	background-color:#f9cece
+}
+
+#c {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+#c:hover {
+	background-color:#f9cece
+}
+
+#d {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+#d:hover {
+	background-color:#f9cece
+}
+
+#e {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+#e:hover {
+	background-color:#f9cece
+}
+
+#f {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+
+#f:hover {
+	background-color:#f9cece
+}
+
+#g {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+
+#g:hover {
+	background-color:#f9cece
+}
+
+#h {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+
+#h:hover {
+	background-color:#f9cece
+}
+
+#i {
+  border: 5px solid #5345b8;
+  background: white;
+  width: 100px;
+  height: 100px;
+}
+
+#i:hover {
+	background-color:#f9cece
+}
